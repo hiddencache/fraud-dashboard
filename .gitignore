@@ -1,5 +1,5 @@
-echo ".venv/" >> .gitignore
-echo ".env" >> .gitignore
-echo "ip_expenses.csv" >> .gitignore
-echo "__pycache__/" >> .gitignore
-echo "*.pyc" >> .gitignore
+.venv/
+.env
+ip_expenses.csv
+__pycache__/
+*.pyc
